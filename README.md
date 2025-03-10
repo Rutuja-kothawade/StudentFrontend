@@ -1,5 +1,5 @@
 <h2>Step to Run Frontend</h2>
-1.cd foldername
+1.cd foldername<br>
 2.npm start
 
 
